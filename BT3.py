@@ -1,2 +1,2 @@
 print("Nhánh main")
-print("Nhánh A")
+print("Nhánh B")
